@@ -7,7 +7,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/m1ish) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/droch1la_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mi1sh) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/droch1la_) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mikhail.pelt@gmail.com) 
 
-[![Views](https://visitcount.itsvg.in/api?id=mi1sh&icon=5&color=12)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=mi1sh&abbreviated=true&color=000000&style-flat)
 </div>
 
 ## <img src='https://github.com/mi1sh/mi1sh/assets/106558234/30bc333c-062f-43db-9fbe-dc0db05c77ed' width='30'/> Projects <i>(made with love)</i>:

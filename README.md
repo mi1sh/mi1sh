@@ -16,6 +16,7 @@
   [![typespeed-test](https://github-readme-stats.vercel.app/api/pin/?username=mi1sh&repo=typespeed-test&theme=ayu-mirage&hide_border=true)](https://github.com/mi1sh/typespeed-test)
 [![usual-ui](https://github-readme-stats.vercel.app/api/pin/?username=mi1sh&repo=usual-ui&theme=ayu-mirage&hide_border=true)](https://github.com/mi1sh/usual-ui)
 [![boykisser-clicker](https://github-readme-stats.vercel.app/api/pin/?username=mi1sh&repo=boykisser-clicker&theme=ayu-mirage&hide_border=true)](https://github.com/mi1sh/boykisser-clicker)
+[![add-some-text](https://github-readme-stats.vercel.app/api/pin/?username=mi1sh&repo=add-some-text&theme=ayu-mirage&hide_border=true)](https://github.com/mi1sh/add-some-text)
 </div>
 
 ## <img src='https://github.com/mi1sh/mi1sh/assets/106558234/1303285f-9bd9-4f0c-be28-ff778819972d' width='30'/> Tech Stack:

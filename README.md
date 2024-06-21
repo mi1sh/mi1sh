@@ -5,7 +5,7 @@
 <img align='center' src='https://github.com/mi1sh/mi1sh/assets/106558234/1540cd4b-e299-4131-aa11-1c5a7ad31550'/>
 <p><img src='https://github.com/mi1sh/mi1sh/assets/106558234/dbe011fa-b801-4f85-850b-75783e4c5587' width='35'/><i>Connect with me:</i></p>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/m1ish) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/droch1la_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mi1sh) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/droch1la_) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mikhail.pelt@gmail.com) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/m1ish) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/droch1la_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mi1sh) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mikhail.pelt@gmail.com) 
 
 [![CLICK TO VIEW](https://img.shields.io/badge/CLICK%20TO%20VIEW%20MY%20PERSONAL%20PAGE-c8a867)](https://mi1sh-dev.vercel.app/)
 

@@ -1,7 +1,7 @@
 <div align='center'>
  
 <h1><b>Hi there, I'm mi1sh</b> <img src="https://github.com/mi1sh/mi1sh/assets/106558234/b2a88b18-a767-43ec-87ad-102e17f49093" width='55'></h1>
-<p><u>A <b>web-developer</b> from Kazakhstan 🇰🇿</u></p>
+<p><u>A <b>web-developer</b> from Qazaqstan 🇰🇿</u></p>
 <img align='center' src='https://github.com/mi1sh/mi1sh/assets/106558234/1540cd4b-e299-4131-aa11-1c5a7ad31550'/>
 <p><img src='https://github.com/mi1sh/mi1sh/assets/106558234/dbe011fa-b801-4f85-850b-75783e4c5587' width='35'/><i>Connect with me:</i></p>
 

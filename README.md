@@ -20,7 +20,7 @@
 [![boykisser-clicker](https://github-readme-stats.vercel.app/api/pin/?username=mi1sh&repo=boykisser-clicker&theme=ayu-mirage&hide_border=true)](https://github.com/mi1sh/boykisser-clicker)
 [![add-some-text](https://github-readme-stats.vercel.app/api/pin/?username=mi1sh&repo=add-some-text&theme=ayu-mirage&hide_border=true)](https://github.com/mi1sh/add-some-text)
 [![mi1sh-portfolio-template](https://github-readme-stats.vercel.app/api/pin/?username=mi1sh&repo=mi1sh-portfolio-template&theme=ayu-mirage&hide_border=true)](https://github.com/mi1sh/mi1sh-portfolio-template)
-[![rick-and-morty-characters](https://github-readme-stats.vercel.app/api/pin/?username=mi1sh&repo=rick-and-morty-characters&theme=ayu-mirage&hide_border=true)](https://github.com/mi1sh/rick-and-morty-characters)
+[![telegram-bot-template](https://github-readme-stats.vercel.app/api/pin/?username=mi1sh&repo=telegram-bot-template&theme=ayu-mirage&hide_border=true)](https://github.com/mi1sh/telegram-bot-template)
 ---
 <i>Here are my <b>LeetCode</b> solutions:</i>
 
